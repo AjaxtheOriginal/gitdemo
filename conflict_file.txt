@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict_file
+=======
+
+>>>>>>> f584e8b387bd7efcf8f90fc86b4051d3e55aa97f
